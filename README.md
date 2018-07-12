@@ -1,5 +1,5 @@
 # xscan_extension
-We have implemented an extension of the XScab tool (Eclipse plugin), which was previously implemented by researchers at IOWA State University.
+We have implemented an extension of the XScan tool (which is an Eclipse plugin). XScan was previously implemented by researchers at IOWA State University.
 
 You can find the original tool at: http://home.engineering.iastate.edu/~hungnv/Research/XScan/
 
